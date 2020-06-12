@@ -1,5 +1,5 @@
 <h1 align="center">
- :camera: React Instagram :camera:
+ Hudlle 
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 💻 Projeto
 
-O projeto é uma reprodução das páginas inicial e perfil do usuário do Instagram e foi desenvolvido para praticar o uso do React Router, Sass e Webpack na biblioteca React. Em breve serão feitas alterações no projeto, tornando o mesmo responsivo com o uso de media queries e utilizando React Modals e outras libs, tornando-o funcional.
+O projeto é uma reprodução de uma landing page com uma unica seção;
 
 ## :rocket: Tecnologias
 
@@ -25,27 +25,27 @@ O projeto é uma reprodução das páginas inicial e perfil do usuário do Insta
 
 ## :zap: Executando
 
-- Baixe e abre o 'Huddle' no seu editor de texto
+- Baixe e abre o 'Huddle'
 
 - Execute o arquivo index.html
 
 ## 🎨 Layout
 
-Página Inicial:
+Preview:
 
-![Image React Instagram Layout](https://github.com/ChristySchott/react-instagram/blob/master/layout/layout1.JPG)
+![Design Mobile](https://github.com/otaudopatrick/Huddle/blob/master/assets/img/desktop-preview.jpg)
 
-![Image React Instagram Layout](https://github.com/ChristySchott/react-instagram/blob/master/layout/layout2.JPG)
+Desktop:
 
-Perfil:
+![Design desktop](https://github.com/otaudopatrick/Huddle/blob/master/assets/img/desktop-design.jpg)
 
-![Image React Instagram Layout](https://github.com/ChristySchott/react-instagram/blob/master/layout/layout3.JPG)
+Mobile:
 
-![Image React Instagram Layout](https://github.com/ChristySchott/react-instagram/blob/master/layout/layout4.JPG)
+![Design Mobile](https://github.com/otaudopatrick/Huddle/blob/master/assets/img/mobile-design.jpg)
 
 ### Aprendizados:
 
-Serviu para fixar conteúdos do React, conhecer um pouco mais sobre a documentação de bibliotecas como React Icons e Semantic UI, e do gerenciador de arquivos Webpack. Pude afiar meus conhecimentos em Sass e utilizei muito Flexbox;
+Serviu para fixar conhecimentos em HTML,CSS e utilizei muito Flexbox;
 
 ## :memo: Licença
 
