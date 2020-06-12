@@ -1,5 +1,5 @@
 <h1 align="center">
- Hudlle 
+ Huddle 
 </h1>
 
 <p align="center">
