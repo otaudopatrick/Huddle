@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+  margin           : 0;
+  padding          : 0;
+  background-color : hsl(257, 40%, 49%);
+  background-image : url("../img/bg-desktop.svg");
+  background-repeat: no-repeat;
+  background-size  : contain;
+  font-family      : 'Open Sans', sans-serif;
+  height           : 100vh;
+}
+
+ol,
+ul,
+li {
+  list-style: none;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+
+.container {
+  max-width: 1250px;
+  margin   : 0 auto;
+}
+
+.header {
+  height       : 95px;
+  display      : flex;
+  margin-bottom: 55px;
+}
+
+.header img {
+  max-width: 155px;
+}
+
+.main {
+  width: 100%;
+}
+
+.content {
+  width  : 100%;
+  display: flex;
+  color  : white;
+}
+
+.content-img img {
+  max-width   : 570px;
+  margin-right: 55px;
+}
+
+.content-text {}
+
+.content-text h1 {
+  text-align : left;
+  max-width  : 345px;
+  font-weight: 600;
+}
+
+.content-text p {
+  text-align: justify;
+  max-width : 465px;
+}
+
+.content-text button {
+  width             : 160px;
+  height            : 45px;
+  border-radius     : 20px;
+  border            : none;
+  color             : hsl(257, 40%, 49%);
+  background-color  : white;
+  font-size         : 15px;
+  outline           : none;
+  -webkit-box-shadow: 0px 3px 5px 2px rgba(0, 0, 0, 0.68);
+  -moz-box-shadow   : 0px 3px 5px 2px rgba(0, 0, 0, 0.68);
+  box-shadow        : 0px 3px 5px 2px rgba(0, 0, 0, 0.68);
+  cursor            : pointer;
+}
+
+.container-footer {
+  max-width: 830px;
+  margin   : 0 auto;
+}
+
+.footer {
+  display        : flex;
+  justify-content: flex-end;
+}
+
+.icon-list {
+  display: inline-flex;
+  padding: 0;
+  margin : 0;
+}
+
+.icon-item {
+  border-radius: 50%;
+  margin       : 0px 5px;
+}
+
+.icon-item i {
+  color        : white;
+  border       : 1px solid white;
+  border-radius: 50%;
+  padding      : 10px;
+  cursor       : pointer;
+}
+
+i.fab.fa-facebook-f {
+  padding: 10px 13px;
+}
